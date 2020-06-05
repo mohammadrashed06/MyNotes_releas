@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:title="Choose image"
+        android:icon="@drawable/ic_image_black_24dp"
+        android:id="@+id/cohoosimage"
+        />
+    <item
+        android:id="@+id/takephoto"
+        android:title="Take photo"
+        android:icon="@drawable/ic_photo_camera_black_material" />
+    <item
+        android:id="@+id/send"
+        android:title="Send"
+        android:icon="@drawable/ic_send_black_material" />
+    <item
+        android:title="Set Reminder"
+        android:icon="@drawable/ic_alarm_black_24dp"
+        android:id="@+id/setreminder"
+        />
+</menu>
